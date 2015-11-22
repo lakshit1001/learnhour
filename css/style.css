@@ -1,0 +1,254 @@
+.navbar-login
+{
+    width: 305px;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.navbar-inner {
+  text-align:center;
+}
+
+.navbar-login-session
+{
+    padding: 10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.icon-size
+{
+    font-size: 87px;
+}
+
+
+
+
+.full {
+    width: 100%;
+}
+.gap {
+	height: 30px;
+	width: 100%;
+	clear: both;
+	display: block;
+}
+.footer {
+
+	height: auto;
+	padding-bottom: 30px;
+	position: relative;
+	width: 100%;
+	border-bottom: 1px solid #CCCCCC;
+	border-top: 1px solid #DDDDDD;
+}
+.footer p {
+	margin: 0;
+}s
+.footer img {
+	max-width: 100%;
+}
+.footer h3 {
+	border-bottom: 1px solid #BAC1C8;
+	font-size: 18px;
+	font-weight: 600;
+	line-height: 27px;
+	padding: 40px 0 10px;
+}
+.footer ul {
+	font-size: 13px;
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+	margin-top: 15px;
+
+}
+.footer ul li a {
+	padding: 0 0 5px 0;
+	display: block;
+}
+
+.footer-bottom {
+	border-top: 1px solid #DDDDDD;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.footer-bottom p.pull-left {
+	padding-top: 6px;
+}
+
+
+@-webkit-keyframes pulsate {
+ 50% { color: #000; }
+}
+@keyframes pulsate {
+ 50% { color: #000; }
+}
+@media (max-width: 480px) {
+    .btn-group {
+        display: block !important;
+        float: none !important;
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+}
+@media (max-width: 600px) {
+    .btn-nav .glyphicon {
+        padding-top: 12px;
+        font-size: 26px;
+    }
+}
+
+.layer-1-right {
+	background-color: #9D4A5A;
+}
+
+.layer-1-left {
+	background-color: #ffffff;
+}
+
+.intro-header {
+margin-top: 55px;
+padding-top: 120px;
+padding-bottom: 120px;
+text-align: center;
+color: #f8f8f8;
+background: url(/learnhour/img/bg.jpeg) no-repeat center center;
+background-size: cover;}
+
+.intro-message > h1  {
+color: white;
+margin: 0;
+text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+.intro-message > h3  {
+color: white;
+margin: 0;
+text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+
+
+.dropdown-large {
+  position: static !important;
+}
+.dropdown-menu-large {
+  margin-left: 16px;
+  margin-right: 16px;
+  padding: 20px 0px;
+}
+.dropdown-menu-large > li > ul {
+  padding: 0;
+  margin: 0;
+}
+.dropdown-menu-large > li > ul > li {
+  list-style: none;
+}
+.dropdown-menu-large > li > ul > li > a {
+  display: block;
+  padding: 3px 20px;
+  clear: both;
+  font-weight: normal;
+  line-height: 1.428571429;
+  color: #333333;
+  white-space: normal;
+}
+.dropdown-menu-large > li ul > li > a:hover,
+.dropdown-menu-large > li ul > li > a:focus {
+  text-decoration: none;
+  color: #262626;
+  background-color: #f5f5f5;
+}
+.dropdown-menu-large .disabled > a,
+.dropdown-menu-large .disabled > a:hover,
+.dropdown-menu-large .disabled > a:focus {
+  color: #999999;
+}
+.dropdown-menu-large .disabled > a:hover,
+.dropdown-menu-large .disabled > a:focus {
+  text-decoration: none;
+  background-color: transparent;
+  background-image: none;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  cursor: not-allowed;
+}
+.dropdown-menu-large .dropdown-header {
+  color: #428bca;
+  font-size: 18px;
+}
+@media (max-width: 768px) {
+  .dropdown-menu-large {
+    margin-left: 0 ;
+    margin-right: 0 ;
+  }
+  .dropdown-menu-large > li {
+    margin-bottom: 30px;
+  }
+  .dropdown-menu-large > li:last-child {
+    margin-bottom: 0;
+  }
+  .dropdown-menu-large .dropdown-header {
+    padding: 3px 15px !important;
+  }
+}
+
+
+.black-bg {
+    color: white;
+    background-color: #49a88f;
+    padding-bottom: 400px;
+}
+
+select {
+font-family: 'Open Sans', sans-serif;
+width: 90%;
+padding: 0.7em 2em 0.7em 1.7em;
+color: #bdbbbb;
+font-size: 18px;
+outline: none;
+background: none;
+border: none;
+font-weight: 600;
+}
+.nl-field {
+display: inline-block;
+position: relative;
+}
+.all-container{
+margin-top: 60px;
+}
+
+.subject-header > h1 {
+  color: #ffffff;
+}
+
+.indent-left {
+  margin-left: auto;
+  max-width: 635px;
+  padding: 60px 20px 40px 50px;
+}
+
+.indent-right {
+  margin-right: auto;
+
+  padding: 0px 50px 10px 20px;
+}
+
+.panel-heading {
+  padding: 0px 0px;
+}
+
+.subject h4 > a{
+  color: #49A88F !important;
+}
+
+.lside {
+
+  background-color: #49A88F;
+}
+
+.rside {
+
+  background-color: #ffffff;
+}
